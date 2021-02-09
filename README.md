@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I'm **Indre** 👋
+
+_+ I’m currently working on my personal website and mini projects._ <br>
+_+ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)_
+
+
 
 <!--
 **juodindre/juodindre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
