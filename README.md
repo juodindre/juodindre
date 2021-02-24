@@ -1,6 +1,7 @@
 ## Hi there, I'm **Indre** 👋
 
-_+ I’m currently working on my personal website._ <br>
+_+ I’m currently working on my personal website._ <br> 
+_+ I'm currently studying at [www.freecodecamp.org](https://www.freecodecamp.org/juodindre)_ <br>
 _+ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)_
 
 
