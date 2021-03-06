@@ -1,6 +1,4 @@
 ## Hi there, I'm **Indre** 👋
-
-_+ I’m currently working on my personal website. Live preview: https://juodindre.github.io/portfolio-website_ <br> 
 _+ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)_
 
 
@@ -8,6 +6,8 @@ _+ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodi
 <!--
 **juodindre/juodindre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 _+ I'm currently studying at [www.freecodecamp.org/juodindre](https://www.freecodecamp.org/juodindre)_ <br>
+_+ I’m currently working on my personal website. Live preview: https://juodindre.github.io/portfolio-website_ <br> 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
