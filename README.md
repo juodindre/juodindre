@@ -1,5 +1,5 @@
 ## Hi there, I'm **Indre** 👋
-_+ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)_
++ Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)
 
 
 
