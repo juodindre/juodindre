@@ -1,5 +1,4 @@
 ## Hi there, I'm **Indre** 👋
-+ I'm currently studying at [www.freecodecamp.org/juodindre](https://www.freecodecamp.org/juodindre) <br>
 + Reach me at [www.linkedin.com/in/juodindre](https://www.linkedin.com/in/juodindre/)
 
 
